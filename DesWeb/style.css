@@ -1,0 +1,26 @@
+body,html{
+    width: 100%;
+    background-color: black;
+}
+
+.Title{
+    color: white;
+    font-family: sans-serif;
+}
+
+.List{
+    color: yellow;
+    list-style: lower-alpha;
+    font-size: 1.5rem;
+    
+}
+
+a{
+    width: 40px;
+    color: white;
+    background-color: yellow;
+    text-decoration: none;
+    padding: 10px;
+    margin: 20px;
+    font-family: sans-serif;
+}
